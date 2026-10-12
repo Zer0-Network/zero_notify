@@ -1,6 +1,6 @@
 {
   "schema": 1,
   "resource": "zero_notify",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "download": "https://portal.cfx.re/assets/granted-assets"
 }
